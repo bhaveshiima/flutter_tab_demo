@@ -1,6 +1,7 @@
 # flutter_tab_demo
 
 A new Flutter Tab Demo application.
+We have taken four tabs for basic feature of DefaultTabController
 
 ## Getting Started
 

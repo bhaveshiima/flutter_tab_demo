@@ -20,7 +20,7 @@ class TabBarDemo extends StatelessWidget {
                 Tab(icon: Icon(Icons.add_a_photo)),
               ],
             ),
-            title: Text('Tabs Demo'),
+            title: Text('Flutter Tabs Demo'),
           ),
           body: TabBarView(
             children: [
